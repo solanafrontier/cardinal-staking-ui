@@ -501,7 +501,7 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
     receiptType: ReceiptType.Original,
     imageUrl:
       'https://raw.githack.com/solanafrontier/logos/main/TheFrontier_logo.png',
-    maxStaked: 5000,
+    maxStaked: 2000,
     colors: {
       primary: '#000000',
       secondary: '#1D6152',
